@@ -1,0 +1,3 @@
+Hopfield: https://colab.research.google.com/drive/1NbiPQQ617VZTby7q4ua0UwoR4kMx_OkG?usp=sharing
+
+Q2:       https://colab.research.google.com/drive/1QbTltdBud61cghOujJQFJEjoOnVMtxAq?usp=sharing
